@@ -10,7 +10,7 @@ Tags: de-novo
 
  I confess my crimes against humanity and Eleutherodactylus coqui races alike, for I have vanquished the furious lab frog.
  > Now, I am become Death, the destroyer of worlds.
-    J.R. Oppenheimer
+ > - J.R. Oppenheimer
 
 ## Contact info:
 
